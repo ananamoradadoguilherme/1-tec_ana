@@ -1,5 +1,18 @@
 body{
     background-color: rgb(114, 77, 149):#47|21|72;
     color: pink;
+}
+
+h1{
+    font-size: 30px;
+}
+p{
+    font-size: 20px;
+}
+header{
      font-family: "Libertinus Mono", monospace;
+  font-size: 60px;
+  border-bottom: double 5px pink;
+  padding: 50px;
+  text-align: center;
 }
